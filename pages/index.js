@@ -1,5 +1,8 @@
 function Home() {
-  return <h1>Home</h1>
+  return <div style={{ textAlign: "center" }}>
+      <h1>Oi gata, quer tc? 🐈</h1>
+      <img width="50%" src="../assets/morgana.jpg" />
+    </div>
 }
 
 export default Home;
